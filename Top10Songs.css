@@ -78,7 +78,6 @@
 }
 
 #noProblemLabel {
-    font-size: 8;
     text-align: center;
 }
 #noProblemVideo.noProblemSub, #noProblemVideo {
@@ -96,7 +95,6 @@
 }
 
 #HYFRLabel {
-    font-size: 8;
     text-align: center;
 }
 #HYFRVideo.HYFRSub, #HYFRVideo {
@@ -114,7 +112,6 @@
 }
 
 #juicyLabel {
-    font-size: 8;
     text-align: center;
 }
 #juicyVideo.juicySub, #juicyVideo {
@@ -132,7 +129,6 @@
 }
 
 #drowningLabel {
-    font-size: 8;
     text-align: center;
 }
 #drowningVideo.drowningSub, #drowningVideo {
@@ -150,7 +146,6 @@
 }
 
 #loseLabel {
-    font-size: 8;
     text-align: center;
 }
 #loseVideo.loseSub, #loseVideo {
@@ -168,7 +163,6 @@
 }
 
 #loveLabel {
-    font-size: 8;
     text-align: center;
 }
 #loveVideo.loveSub, #loveVideo {
@@ -186,7 +180,6 @@
 }
 
 #weOwnItLabel {
-    font-size: 8;
     text-align: center;
 }
 #weOwnItVideo.weOwnItSub, #weOwnItVideo {
@@ -204,7 +197,6 @@
 }
 
 #backseatLabel {
-    font-size: 8;
     text-align: center;
 }
 #backseatVideo.backseatSub, #backseatVideo {
@@ -222,7 +214,6 @@
 }
 
 #mottoLabel {
-    font-size: 8;
     text-align: center;
 }
 #mottoVideo.mottoSub, #mottoVideo {
@@ -240,7 +231,6 @@
 }
 
 #watchLabel {
-    font-size: 8;
     text-align: center;
 }
 #watchVideo.watchSub, #watchVideo {
@@ -250,5 +240,12 @@
     background-color: #777;
     display:block
 }
+
+#watch {
+    margin-bottom: 50px;
+}
+
+
+
 
 
