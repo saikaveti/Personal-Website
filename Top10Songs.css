@@ -70,3 +70,185 @@
 #nav ul ul li a:hover {
     color: darkgray;
 }
+
+#noProblemVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#noProblemLabel {
+    font-size: 8;
+    text-align: center;
+}
+#noProblemVideo.noProblemSub, #noProblemVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+#HYFRVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#HYFRLabel {
+    font-size: 8;
+    text-align: center;
+}
+#HYFRVideo.HYFRSub, #HYFRVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+#juicyVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#juicyLabel {
+    font-size: 8;
+    text-align: center;
+}
+#juicyVideo.juicySub, #juicyVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+#drowningVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#drowningLabel {
+    font-size: 8;
+    text-align: center;
+}
+#drowningVideo.drowningSub, #drowningVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+#loseVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#loseLabel {
+    font-size: 8;
+    text-align: center;
+}
+#loseVideo.loseSub, #loseVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+#loveVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#loveLabel {
+    font-size: 8;
+    text-align: center;
+}
+#loveVideo.loveSub, #loveVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+#weOwnItVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#weOwnItLabel {
+    font-size: 8;
+    text-align: center;
+}
+#weOwnItVideo.weOwnItSub, #weOwnItVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+#backseatVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#backseatLabel {
+    font-size: 8;
+    text-align: center;
+}
+#backseatVideo.backseatSub, #backseatVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+#mottoVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#mottoLabel {
+    font-size: 8;
+    text-align: center;
+}
+#mottoVideo.mottoSub, #mottoVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+#watchVideo{
+    width:100%;
+    vertical-align: middle;
+    text-align:center;
+}
+
+#watchLabel {
+    font-size: 8;
+    text-align: center;
+}
+#watchVideo.watchSub, #watchVideo {
+    width: 420px;
+    height: 240px;
+    margin: 0 auto;
+    background-color: #777;
+    display:block
+}
+
+
